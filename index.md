@@ -1,91 +1,94 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alisina Bahadori's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+# Alisina Bahadori
+Backend developer. Experienced in Elixir, C#, Linux, Docker, Kubernetes, AWS.
 
 ## Currently
 
-Standing on the shoulders of giants
+I'm currently the Head of Software department at [SoroushMehr](https://soroushmehr.com).
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+As a developer of applications with 400K+ users (Such as [Man Mamanam](https://manmamanam.com)) I'm mainly concerned with two things.
 
+  1. Performance of the code and the architecture.
+  2. Availability of the service.
+  
+I've mainly worked as a **Backend Developer** and a **Telephony Engineer**.
+
+Tech stack which I use on a daily basis and LOVE:
+
+ - Elixir and Erlang (I mainly code in Elixir but know Erlang too)
+ - Linux
+ - Docker
+ - Kubernetes
+ - Postgresql
+ - Apache Cassandra (Distributed database)
+ - Prometheus
+ - Grafana
+ - Asterisk
+ 
+Tech stack which i know:
+
+ - C#.NET (First PL I've learned)
+   - ASP.NET (WebForms)
+   - ASP.NET (MVC)
+   - ASP.NET (API)
+ - Microsoft SQL Server
+ - Microsoft Windows Server
+ - RabbitMQ
+ - Redis
+ - MongoDB
+ - Asterisk
+ 
+ And many more things, But in my opinion the important part is that I have a good understading
+ about computers in general and this is what gives me the power to do what has to be done in the
+ best way possible.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+New technologies, Designing Low and High level protocols, Cryptography, Machine Learning and Blockchain.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2014`
+__Allameh Tabatabaei Highschool__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+ - Mathemathics
 
-- Sizar
+`2015-2018`
+__Islamic Azad University Central Tehran Branch__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Computer Software Engineering (Bachelors degreee)
 
-- Fellow
+`2019 - NOW`
+__Islamic Azad University North Tehran Branch__
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Translation of English language
 
 
 
-## Publications
+## OpenSource
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Porjects on mine
 
-### Journals
+- [Numero]() Elixir micro library to handle english digits.
+- [Jalaali]() calendar implementation in Elixir.
+- [NTRU Elixir]() NTRU (a PostQuantum Crypto) NIF for using it in Elixir.
+- [Servnatex](https://github.com/alisinabh/servantex) A project to integrate ESP8266 with Google-Assistant for noobs.
+- [FusionDSL](https://github.com/alisinabh/fusion_dsl) A preconfigurable idiot resistant domain specific programming language.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Contributions
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+ - [elixir_agi](https://github.com/marcelog/elixir_agi) A FastAGI server implementation in Elixir.
+ - [ecto_translate](https://github.com/smeevil/ecto_translate) A library to help translation of database data with Ecto.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2019 -->
 
 
