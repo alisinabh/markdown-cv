@@ -10,11 +10,6 @@ Backend developer. Experienced in Elixir, C#, Linux, Docker, Kubernetes, AWS.
 I'm currently the Head of Software department at [SoroushMehr](https://soroushmehr.com).
 
 ### Specialized in
-
-As a developer of applications with 400K+ users (Such as [Man Mamanam](https://manmamanam.com)) I'm mainly concerned with two things.
-
-  1. Performance of the code and the architecture.
-  2. Availability of the service.
   
 I've mainly worked as a **Backend Developer** and a **Telephony Engineer**.
 
@@ -56,36 +51,57 @@ New technologies, Designing Low and High level protocols, Cryptography, Machine 
 `2010-2014`
 __Allameh Tabatabaei Highschool__
 
- - Mathemathics
+ - Mathematics
 
 `2015-2018`
 __Islamic Azad University Central Tehran Branch__
 
-- Computer Software Engineering (Bachelors degreee)
+- Computer Software Engineering (Bachelors degree)
 
 `2019 - NOW`
 __Islamic Azad University North Tehran Branch__
 
 - Translation of English language
 
+## Projects
+
+ - [Man Mamanam](https://manmamanam.com) An application for Iranian mothers.
+ - [Dootak](https://dootak.com) An online magazines application.
+ - IVR (Interactive Voice Response) telephony projects.
+ - Creation and maintenance of a bare-metal Kubernetes cluster on a private Datacenter.
+ - Creation and maintenance of a Kubernetes cluster on AWS.
 
 
 ## OpenSource
 
-### Porjects on mine
+### Projects of mine
 
-- [Numero]() Elixir micro library to handle english digits.
-- [Jalaali]() calendar implementation in Elixir.
-- [NTRU Elixir]() NTRU (a PostQuantum Crypto) NIF for using it in Elixir.
-- [Servnatex](https://github.com/alisinabh/servantex) A project to integrate ESP8266 with Google-Assistant for noobs.
+- [Jalaali](https://github.com/jalaali/elixir-jalaali) calendar implementation in Elixir.
+- [NTRU Elixir](https://github.com/alisinabh/ntru_elixir) NTRU (a Post-Quantum Crypto) NIF for using it in Elixir.
+- [Servnatex](https://github.com/alisinabh/servantex) A project to integrate ESP8266 with Google-Assistant for NOOBS.
 - [FusionDSL](https://github.com/alisinabh/fusion_dsl) A preconfigurable idiot resistant domain specific programming language.
+- [Numero](https://github.com/alisinabh/Numero) Elixir micro library to handle English digits.
 
-### Contributions
+### Contributed to
 
  - [elixir_agi](https://github.com/marcelog/elixir_agi) A FastAGI server implementation in Elixir.
  - [ecto_translate](https://github.com/smeevil/ecto_translate) A library to help translation of database data with Ecto.
 
+## Other Experiences
 
+ - 3D-Printing and CNC
+  - I've made a prusa i3 clone
+  - Experienced with Slic3r
+  - Made a CNC machine for one of my friends who's a toy maker
+ - IoT
+  - Home automation with Esphome and Hassio (Home Assistant)
+  - Datacenter temperature monitoring and control using Arduino
+  - Made a Zigbee2Mqtt device for using Xiaomi home appliances directly with Hassio.
+
+
+Last updated: Nov 2019
+
+For latest version of this document please visit [alisinabh.github.io/markdown-cv](https://alisinabh.github.io/markdown-cv)
 
 <!-- ### Footer
 
